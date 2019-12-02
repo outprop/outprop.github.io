@@ -1,3 +1,4 @@
 body{background-color: #9D1FFF;}
-h1,h3,p {background-color: #E8401C;
-	color: #FFFD4D}
+h1 {background-color: #E8401C;
+	color: #FFFD4D;font-family: cursive;font-weight: normal;}
+	p, {font-style: italic;}
