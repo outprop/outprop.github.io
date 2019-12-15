@@ -1,0 +1,28 @@
+body{background-color: 	#f7efef;
+}
+h1{color: #d72621;
+	font-style: Candara;
+text-align: center;
+}
+h3{text-align: center;
+}
+.box{
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
+#name {background-color: #639565;
+}
+.london{width: 150px;
+	  height: 150px;
+	  border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
